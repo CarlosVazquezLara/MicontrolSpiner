@@ -1,0 +1,2 @@
+rootProject.name='MicontrolSpiner'
+include ':app'
